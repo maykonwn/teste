@@ -11,6 +11,9 @@
     $cTexto = "XB_201601";
     
     echo $cTexto . ' - ' . substr($cTexto,0,1);
+	/*
+		Aleterado No GitHub.
+	*/
 ?>
       
 </body>
